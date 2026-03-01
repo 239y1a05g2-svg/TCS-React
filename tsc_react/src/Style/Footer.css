@@ -1,0 +1,29 @@
+/* Footer main section */
+.footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Copyright text */
+.footer p {
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+/* Links container */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* Links style */
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+
