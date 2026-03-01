@@ -5,7 +5,7 @@ function Home() {
     <div className="home-container">
       <div className="home-card">
 
-        <h1>Welcome to MadhuTech</h1>
+        <h1>Welcome to vishnuTech</h1>
 
         <p>
           MadhuTech is a growing tech platform where we build simple,
@@ -23,12 +23,12 @@ function Home() {
 
         <img
           src="https://swaritadvisors.com/learning/wp-content/uploads/2018/06/Private-Limited-Company.jpg"
-          alt="MadhuTech Home"
+          alt="vishnuTech Home"
           className="home-image"
         />
 
         <button className="home-btn">
-          Explore MadhuTech
+          Explore vishnuTech
         </button>
 
       </div>
