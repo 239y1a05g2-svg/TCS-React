@@ -3,7 +3,7 @@ import "../Style/Footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2026 madhuTech pvt.lmt. All Rights Reserved.</p>
+      <p>© 2026 vishnuTech pvt.lmt. All Rights Reserved.</p>
 
       <div className="footer-links">
         <a href="https://instagram.com" target="_blank" rel="noreferrer">
@@ -14,8 +14,8 @@ function Footer() {
         </a>
         <a href="https://linkedin.com" target="_blank" rel="noreferrer">
           LinkedIn<br></br>
-          <strong>Ph:9392567285</strong><br></br>
-          <strong>email:madhutech@gmail.com</strong>
+          <strong>Ph:9087654321</strong><br></br>
+          <strong>email:vishnutech@gmail.com</strong>
         </a>
       </div>
     </footer>
