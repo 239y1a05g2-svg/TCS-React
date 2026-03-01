@@ -62,7 +62,7 @@ export default function Arrays() {
     age: 21
   };
 
-  user1.name = "Madhu";
+  user1.name = "vishnu";
   user1.age = 23;
 
   // LAB 10.2: Interface with functions
@@ -88,7 +88,7 @@ export default function Arrays() {
   type StudentList = Student[];
 
   const students: StudentList = [
-    { name: "Madhu", marks: 85 },
+    { name: "vishnu", marks: 85 },
     { name: "Kiran", marks: 90 },
     { name: "Ravi", marks: 78 }
   ];
@@ -114,8 +114,8 @@ export default function Arrays() {
   return (
     <div>
       <h1>Lab5</h1>
-      <p>{greetUser("Madhu")}</p>
-      <p>{greetUser("sudhan", "Mr.")}</p>
+      <p>{greetUser("vishnu")}</p>
+      <p>{greetUser("vardhan", "Mr.")}</p>
       <p>Add Result: {add(5, 3)}</p>
       <p>Multiply Result: {multiply(5, 3)}</p>
 
@@ -124,7 +124,7 @@ export default function Arrays() {
       <p>Even or Odd: {evenOrOdd(24)}</p>
 
       <h3>Lab7</h3>
-      <p>{greetuser1(12, "madhu", "reddy")}</p>
+      <p>{greetuser1(12, "vishnu", "vardhan")}</p>
       <p>Add Numbers: {addNumbers(23, 687)}</p>
 
       <h3>Lab8</h3>
